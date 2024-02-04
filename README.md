@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @prasannashrestha011
 
 - 🌱 I’m currently learning JavaScript and Nodejs
+  Programming languages that I am familiar with: Python, JavaScript, PHP.
 
 <!---
 prasannashrestha011/prasannashrestha011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
