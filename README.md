@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prasannashrestha011
 
-- 🌱 I’m currently learning JavaScript and Nodejs
+- 🌱 I’m currently learning ExpressJs
   Programming languages that I am familiar with: Python, JavaScript
 
 <!---
