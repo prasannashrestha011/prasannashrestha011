@@ -37,7 +37,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/prasannashrestha011/prasannashrestha011/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
