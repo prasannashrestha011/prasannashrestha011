@@ -47,14 +47,7 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/prasannashrestha011/count.svg?"  />
-</div>
-
-###
-</div>
 
 ###
 
