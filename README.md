@@ -1,7 +1,7 @@
 <h2 align="left"> Prasanna Shrestha</h2>
 
 
-<div align="left">
+<div align="left" display="flex">
   <img src="https://gitrepocard.vercel.app/api/repodata?owner=prasannashrestha011&repo=Api-Testing-" alt="git_card" style="width:400px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasannashrestha011&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
