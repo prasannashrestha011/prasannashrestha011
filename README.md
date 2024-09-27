@@ -2,6 +2,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<img src="https://gitrepocard.vercel.app/api/latestRepo?owner=prasannashrestha011" width="480"/>
 <img src="https://gitrepocard.vercel.app/api/repodata?owner=prasannashrestha011&repo=Api-Testing-" alt="git_card" width="450"/>
 
   
