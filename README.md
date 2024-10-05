@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg"/>
  <h2>Latest Repository</h2>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-<img src="https://gitrepocard.vercel.app/api/latestRepo?owner=prasannashrestha011" width="450" style="border:2px solid white" />
+<img src="https://gitrepocard.vercel.app/api/latestRepo?owner=prasannashrestha011" width="480" style="border:2px solid white" />
 <img src="https://gitrepocard.vercel.app/api/repodata?owner=prasannashrestha011&repo=GitRepoInfoCard" alt="git_card" width="450"/>
 
   
