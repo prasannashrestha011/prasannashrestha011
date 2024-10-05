@@ -3,7 +3,7 @@
  <h2>Latest Repository</h2>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 <img src="https://gitrepocard.vercel.app/api/latestRepo?owner=prasannashrestha011" width="500" style="border:2px solid white" />
-<img src="https://gitrepocard.vercel.app/api/repodata?owner=prasannashrestha011&repo=GitRepoInfoCard" alt="git_card" width="450"/>
+<img src="https://gitrepocard.vercel.app/api/repodata?owner=prasannashrestha011&repo=GitRepoInfoCard" alt="git_card" width="420"/>
 
   
 
