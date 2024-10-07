@@ -8,13 +8,11 @@
 
   
 
-###
-
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif"  />
-
-###
-
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannashrestha011&layout=compact&theme=dark" alt=Addy-0001 />
+
+
+
+
 <div align="left">
   <p>Frontend</p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
