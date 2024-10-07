@@ -8,7 +8,7 @@
 
   
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannashrestha011&layout=compact&theme=dark" alt=prasannashrestha />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannashrestha011&layout=compact&theme=dark" alt=prasannashrestha width="500"/>
 
 
 <div></div>
