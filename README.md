@@ -6,11 +6,6 @@
  <div></div>
 <img src="https://gitrepocard.vercel.app/api/repodata?owner=prasannashrestha011&repo=GitRepoInfoCard" alt="git_card" width="500" />
 
-  
-
-
-
-
 <div>
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannashrestha011&layout=compact&theme=dark" alt=prasannashrestha width="500"/>
