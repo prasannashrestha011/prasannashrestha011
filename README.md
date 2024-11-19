@@ -1,7 +1,8 @@
 <h2 align="left"> Prasanna Shrestha</h2>
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg"/>
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+ Self taught programmer<br/>
+🔭 I’m currently working on springboot <br/>
 
 
 # 💻 Tech Stack:
