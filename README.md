@@ -1,9 +1,15 @@
 <h2 align="left"> Prasanna Shrestha</h2>
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasannashrestha011&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasannashrestha011&exclude_repo=github-readme-stats,convoychat" />
-<div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=prasannashrestha011&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prasannashrestha011&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannashrestha011&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=prasannashrestha011&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <div align="left">
