@@ -7,7 +7,7 @@ Interested in backend development
 
 
 # 💻 Tech Stack:
-[![Skills](https://skillicons.dev/icons?i=js,react,cs,go,unity,express,mongodb,django,postgresql,flutter)]()
+[![Skills](https://skillicons.dev/icons?i=next,react,java,cs,go,express,spring,postgresql)]()
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prasannashrestha011&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prasannashrestha011&theme=transparent&hide_border=true)<br/>
