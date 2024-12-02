@@ -7,7 +7,7 @@ Interested in backend development
 
 
 # 💻 Tech Stack:
-[![Skills](https://skillicons.dev/icons?i=next,react,express,spring,java,cs,go,postgresql)]()
+[![Skills](https://skillicons.dev/icons?i=next,react,redux,express,spring,java,cs,go,postgresql)]()
 
 # OS:
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
