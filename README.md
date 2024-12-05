@@ -1,5 +1,5 @@
 <h2 align="left"> Prasanna Shrestha</h2>
-<a target="_blank">https://www.prasannashrestha.tech/</a> </br>
+<a>https://www.prasannashrestha.tech/</a> </br>
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg"/>
 # 💫 About Me: <br/>
 self-taught programmer<br/>
