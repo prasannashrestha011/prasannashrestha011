@@ -4,8 +4,8 @@
 # 💫 About Me: <br/>
 self-taught programmer<br/>
 learning to be better <br/>
-🔭 Interested in backend development  <br/>
-I’m currently working on springboot <br/>
+Interested in backend development  <br/>
+
 
 
 # 💻 Tech Stack:
