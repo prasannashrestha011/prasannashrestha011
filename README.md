@@ -1,4 +1,4 @@
-<h2 align="left"> Prasanna Shrestha</h2>
+<h2 align="left"> Prasanna Shrestha</h2> </br>
 <span>https://www.prasannashrestha.tech/</span> </br>
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg"/>
 # 💫 About Me: <br/>
@@ -10,8 +10,6 @@ Interested in backend development  <br/>
 
 # 💻 Tech Stack:
 [![Skills](https://skillicons.dev/icons?i=next,react,redux,express,spring,java,cs,go,postgresql)]()
-
-# OS:
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prasannashrestha011&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
