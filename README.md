@@ -8,7 +8,7 @@ Interested in backend development  <br/>
 
 
 # 💻 Tech Stack:
-[![Skills](https://skillicons.dev/icons?i=next,react,zustand,express,django,spring,python,java,cs,postgresql)]()
+[![Skills](https://skillicons.dev/icons?i=next,react,django,spring,python,java,cs,postgresql)]()
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prasannashrestha011&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
