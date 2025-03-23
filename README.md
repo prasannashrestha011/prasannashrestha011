@@ -14,7 +14,7 @@ Interested in backend development  <br/>
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prasannashrestha011&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prasannashrestha011&theme=transparent&hide_border=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=prasannashrestha011&theme=aura&hide_border=true&background=45%2C992CEB%2C0305158A)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannashrestha011&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
