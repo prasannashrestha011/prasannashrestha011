@@ -2,7 +2,7 @@
 self-taught programmer<br/>
 learning to be better <br/>
 Interested in backend development  <br/>
-Current exploring machine learning <br/>
+Currently exploring machine learning <br/>
 <a href="https://www.prasannashrestha.tech/" rel="noopener noreferer">Visit my portfolio</a> </br>
 <img
  width=305
